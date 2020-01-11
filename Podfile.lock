@@ -1,0 +1,38 @@
+PODS:
+  - AnimatableReload (0.2.0)
+  - LBTAComponents (1.1)
+  - Realm (3.20.0):
+    - Realm/Headers (= 3.20.0)
+  - Realm/Headers (3.20.0)
+  - RealmSwift (3.20.0):
+    - Realm (= 3.20.0)
+  - RevealingSplashView (0.6.0)
+  - SwiftySound (1.1.0)
+
+DEPENDENCIES:
+  - AnimatableReload (~> 0.2)
+  - LBTAComponents (~> 1.1)
+  - RealmSwift (~> 3.18)
+  - RevealingSplashView (~> 0.6)
+  - SwiftySound (~> 1.1)
+
+SPEC REPOS:
+  trunk:
+    - AnimatableReload
+    - LBTAComponents
+    - Realm
+    - RealmSwift
+    - RevealingSplashView
+    - SwiftySound
+
+SPEC CHECKSUMS:
+  AnimatableReload: 9576d3019bfb103f76b5f37fa6f8915bd8307527
+  LBTAComponents: 2e7719683ddcf1cdf7280700438c0c6a5f7da550
+  Realm: 8b2ca5bc6479a91f379b6b42b5922e396cd5ba5a
+  RealmSwift: 1949ef26a279e1845bd51d591b9103adfcd121df
+  RevealingSplashView: 40c5a770894459736acdc95655eeba0dd30ce91c
+  SwiftySound: eb46cc2399cf7d94f58c372f38216e15e0a6de3e
+
+PODFILE CHECKSUM: 25448bce4cdb9711251ad7aad896934ed98c85cb
+
+COCOAPODS: 1.8.3
